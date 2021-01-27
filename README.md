@@ -3,7 +3,6 @@ Algemene informatie.
 
 ## Andere repositories
 * Edgecar - RPi: https://github.com/PXLDigital/rttf-edgecar
-* Edgecar AI - host: https://github.com/PXLDigital/rttf-edgecar-ai
 * Slack: [Join us!](https://join.slack.com/t/racetothefuture/shared_invite/zt-d800wi5v-ipp_ErJ_6D_w3dWvLXqX7Q)
 
 ## Informatie
