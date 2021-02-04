@@ -2,7 +2,7 @@
 Algemene informatie Race to the Future. Volgende editie: 7 mei 2021
 
 ## Andere repositories
-* Edgecar - setup Raspberry Pi: https://github.com/PXLDigital/rttf-edgecar
+* Edgecar info - setup hardware & software: https://github.com/PXLDigital/rttf-edgecar
 
 ## Informatie
 ### ! Wordt nog aangepast naar recente versie !
