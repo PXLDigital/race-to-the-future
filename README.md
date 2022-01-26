@@ -8,7 +8,7 @@ Video RTTF 2020: [YouTube](https://www.youtube.com/watch?v=po89ZRmakuU)
 ## Andere repositories
 * Hardware setup - [Building the car](https://github.com/PXLDigital/race-to-the-future/wiki)
 * Arduino setup - [Programming the Arduino pro micro](https://github.com/PXLDigital/race-to-the-future/wiki/Programmeren-van-de-Arduino-Pro-Micro)
-* Software setup - [Preparing the Raspberry Pi for AI development](https://github.com/PXLDigital/rttf-edgecar)
+* Software setup - [Preparing the Raspberry Pi for AI development](https://github.com/PXLDigital/rttf-edgecar/wiki)
 
 ## Informatie
 
