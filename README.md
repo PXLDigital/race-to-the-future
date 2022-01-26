@@ -8,8 +8,8 @@ https://www.racetothefuture.be/
 * Edgecar info - setup Raspberry Pi software: https://github.com/PXLDigital/rttf-edgecar
 
 ## Informatie
-### ! Wordt nog aangepast naar recente versie !
 
-Infosessie 22/06/2020: https://web.microsoftstream.com/video/4566866b-d9b6-4d37-872d-0679b88bd8bc
-
-Presentatie: [link](infosessie_racetothefuture.pptx)
+Workshop 01/12:
+* Recording software: [link](https://hogeschoolpxl-my.sharepoint.com/:v:/g/personal/20004716_pxl_be/EZx1nL1BN2ZJsrrxPkGUvCUBG1LQB_NB59oY7-nRfEu4UQ)
+* Powerpoint: [link](https://github.com/PXLDigital/rttf-edgecar/raw/master/docs/RTTF_AI_CV.pptx)
+* Recording hardware connections: [link](https://hogeschoolpxl-my.sharepoint.com/:v:/g/personal/20004716_pxl_be/EStWtOQhEihNpDW6VFFtjr0B9v_BnuIKzSmPThxEU3E6NA)
