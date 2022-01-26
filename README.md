@@ -6,9 +6,9 @@ https://www.racetothefuture.be/
 Video RTTF 2020: [YouTube](https://www.youtube.com/watch?v=po89ZRmakuU)
 
 ## Andere repositories
-* Edgecar info - Building the car
+* Edgecar info - Building the car: https://github.com/PXLDigital/rttf-edgecar/wiki
 * Edgecar info - Programming the Arduino pro micro 
-* Edgecar info - setup Raspberry Pi software: https://github.com/PXLDigital/rttf-edgecar
+* Edgecar info - Software: https://github.com/PXLDigital/rttf-edgecar
 
 ## Informatie
 
