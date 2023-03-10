@@ -14,7 +14,7 @@ Video RTTF 2020: [YouTube](https://www.youtube.com/watch?v=po89ZRmakuU)
 
 ## Informatie
 
-* Hardware connections: [link](https://hogeschoolpxl-my.sharepoint.com/personal/20004716_pxl_be/_layouts/15/stream.aspx?id=%2Fpersonal%2F20004716%5Fpxl%5Fbe%2FDocuments%2FOpnamen%2Frttf%2Dhardware%2Dconnections%2Emp4&ga=1)
+* Hardware connections: [link](https://hogeschoolpxl-my.sharepoint.com/:v:/g/personal/20004716_pxl_be/EStWtOQhEihNpDW6VFFtjr0B6KfdPAR-3C-5Jm-FVPhn3w?e=auH1md)
 
 * Opname infosessie hardware & software: [link](https://hogeschoolpxl-my.sharepoint.com/:v:/g/personal/20007010_pxl_be/EbPwXRHWInVNjkYmNniVbpkBJSLnK_2mqUWA4x2u8Qhw2w?e=Xw75Nk)
 
