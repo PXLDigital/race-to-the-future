@@ -1,5 +1,5 @@
 # Race To The Future
-Algemene informatie Race to the Future. Volgende editie: 12 mei 2023
+Algemene informatie Race to the Future
 
 https://www.racetothefuture.be/
 
